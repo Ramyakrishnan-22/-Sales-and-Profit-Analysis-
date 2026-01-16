@@ -2,7 +2,7 @@
 
 # 📌 Project Overview
 
-    This project focuses on analyzing Sales and Profit performance using Microsoft Excel.
+This project focuses on analyzing Sales and Profit performance using Microsoft Excel.
 The goal is to convert raw sales data into meaningful business insights using Pivot Tables, Pivot Charts, and Slicers, similar to a Business Intelligence (BI) dashboard.
 
 The dashboard helps in understanding:
